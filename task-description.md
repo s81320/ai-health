@@ -33,7 +33,9 @@ Alex Löser is involved : https://www.bihealth.org/en/about-us/mission
 
 We had a presentation on rasa in 1st semester, they are active in health, too: https://venturebeat.com/2019/04/11/rasa-raises-13-million-for-open-source-conversational-ai-development-tools/
 
-IBM is in AI and health care: 
+IBM is in AI and health care: https://www.ibm.com/watson-health/learn/artificial-intelligence-medicine
+
+https://www.research.ibm.com/healthcare-and-life-sciences/publications/
 
 ## Structure for our talk
 
