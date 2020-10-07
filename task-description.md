@@ -41,11 +41,19 @@ https://www.research.ibm.com/healthcare-and-life-sciences/publications/
 
 https://www.ibm.com/blogs/research/category/ai/
 
+09 / 2020 https://healthcareweekly.com/artificial-intelligence-in-healthcare/
+
+11 / 2019 https://healthcareweekly.com/best-healthcare-startups-to-watch-for-in-2019/
+
+08 / 2020 Forbes https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/#44e7a9633e4e
+
+11 / 2019 https://time.com/5727535/artificial-intelligence-psychiatry/
+
 ## Structure for our talk
 
 If we each introduce a company that "makes money with ai and health" (as Alex Löser suggested) there has to be some underlying structure, we cannot just talk about 4 random companies. 
 
-https://en.wikipedia.org/wiki/Pasteur%27s_quadrant
+Present companies from 3 of the 4 areas of Pasteurs quadrant? https://en.wikipedia.org/wiki/Pasteur%27s_quadrant
 
 We need financial data on the companies. For start-ups there is sometimes info on venture capital raised. But on revenues? Start-ups are not at the stock exchange ...
 
