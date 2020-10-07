@@ -1,10 +1,12 @@
-# The economic impact of a data product
-## "How can I make money?" (-> platform economy setting?)
-We should: Give an introduction to successful companies that provide interesting data products and make money from it.
-Our topic is in the area / field where business and data science meet.
+# Economic Impact of a Data Product (in particluar in AI + Health)
 
-Companies from Berlin, the US, China??
-Names Alex Löser dropped: KRY, Ada, Babylon
+"How can I make money?"
+
+We should: Give an introduction to successful companies that provide interesting data products and make money from it. (How) do they participate in the platform economy?
+
+The topic is in the area / field where business and data science meet.
+
+Companies from Berlin, the US, China? Names Alex Löser dropped: KRY (did not find that), Ada, Babylon
 
 We could give 4 examples of companies that make money in ai and health.
 
@@ -23,13 +25,13 @@ https://germandigitaltechnologies.de
 
 ## more resources
 
-https://www.smartpatient.eu/patient-support MyTherapy platform
-
 Alex Löser: https://ki-berlin.de/en/blog/article/prof-dr-alexander-loeser-beuth-hochschule-fuer-technik0
 
 other KI start-ups in Berlin: https://ki-berlin.de/en/blog/
 
 Alex Löser is involved : https://www.bihealth.org/en/about-us/mission
+
+https://www.smartpatient.eu/patient-support MyTherapy platform
 
 We had a presentation on rasa in 1st semester, they are active in health, too: https://venturebeat.com/2019/04/11/rasa-raises-13-million-for-open-source-conversational-ai-development-tools/
 
@@ -37,11 +39,15 @@ IBM is in AI and health care: https://www.ibm.com/watson-health/learn/artificial
 
 https://www.research.ibm.com/healthcare-and-life-sciences/publications/
 
+https://www.ibm.com/blogs/research/category/ai/
+
 ## Structure for our talk
 
-If we each introduce a company that "makes money with ai and health" there has to be some underlying structure, we cannot just talk about 4 random companies. 
+If we each introduce a company that "makes money with ai and health" (as Alex Löser suggested) there has to be some underlying structure, we cannot just talk about 4 random companies. 
 
 https://en.wikipedia.org/wiki/Pasteur%27s_quadrant
+
+We need financial data on the companies. For start-ups there is sometimes info on venture capital raised. But on revenues? Start-ups are not at the stock exchange ...
 
 ### in German
 https://ki-verband.de/wp-content/uploads/2020/09/Studie_KI-Wo-stehen-deutsche-Startups.pdf
