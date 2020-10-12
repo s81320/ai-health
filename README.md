@@ -49,6 +49,10 @@ https://www.ibm.com/blogs/research/category/ai/
 
 11 / 2019 https://time.com/5727535/artificial-intelligence-psychiatry/
 
+## startups/companies in AI Health
+
+https://aicura-medical.com/
+
 ## Structure for our talk
 
 If we each introduce a company that "makes money with ai and health" (as Alex Löser suggested) there has to be some underlying structure, we cannot just talk about 4 random companies. 
