@@ -15,7 +15,8 @@ We could give 4 examples of companies that make money in ai and health.
 https://www.bondcap.com/report/itr19/ 
 
 https://www.thegeniusworks.com/wp-content/uploads/2017/06/St-Gallen-Business-Model-Innovation-Paper.pdf  
-https://www.youtube.com/watch?v=hIXhnWUmMvw 
+
+https://www.youtube.com/watch?v=hIXhnWUmMvw The Shoshana Zuboff: "Surveilance Capitalism", 50 min
 
 Amazon Fly Wheel 
 
