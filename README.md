@@ -15,7 +15,8 @@ We could give 4 examples of companies that make money in ai and health.
 https://www.bondcap.com/report/itr19/ 
 
 https://www.thegeniusworks.com/wp-content/uploads/2017/06/St-Gallen-Business-Model-Innovation-Paper.pdf  
-https://www.youtube.com/watch?v=hIXhnWUmMvw 
+
+https://www.youtube.com/watch?v=hIXhnWUmMvw The Shoshana Zuboff: "Surveilance Capitalism", 50 min
 
 Amazon Fly Wheel 
 
@@ -48,6 +49,10 @@ https://www.ibm.com/blogs/research/category/ai/
 08 / 2020 Forbes https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/#44e7a9633e4e
 
 11 / 2019 https://time.com/5727535/artificial-intelligence-psychiatry/
+
+## startups/companies in AI Health
+
+https://aicura-medical.com/
 
 ## Structure for our talk
 
