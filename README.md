@@ -62,3 +62,32 @@ https://ki-verband.de/wp-content/uploads/2020/09/Studie_KI-Wo-stehen-deutsche-St
 
 https://nephrologie-intensivmedizin.charite.de/fuer_patienten/telemedizin/ 
 
+
+
+## 19.11.20 Meeting links
+
+Yusif	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/#CIT0002
+Yusif	https://www.siemens-healthineers.com/digital-health-solutions/digital-solutions-overview/clinical-decision-support/ai-pathway-companion
+Yusif	https://cdn0.scrvt.com/39b415fb07de4d9656c7b516d8e2d907/913d279d3ddd899c/3ac4b193c2d6/DH_AI_PC_Whitepaper_CDS_Prostate.pdf
+Yusif	https://www.nature.com/articles/s41591-019-0447-x.epdf?referrer_access_token=yr1_4BlippNWDFLPHvvkY9RgN0jAjWel9jnR3ZoTv0PPvcOnHUVJFSsgVIyXUjK6_-lWLTcJBkj0gzkU-OIG1MFmpKn3ezwOmdpNenCfKFln6RcnUwo7WJRGYGZvhjpw5MwKGeNZsAbBFxHKrUBInG8NLz4fwwGL2QoG6J5Xgn53xSTEpCYfYMhbTxxlboDXp-K-nA4EjPxPiLpH98aXvFn0tco-9Y2i2QuFcGFlkXlyxMR_07e310G0xoCPlq_11iYyndHWJZbkyy40QVos4J4evKaJUQK7V22J7mlPukehrcxtx0TB18EBp25IFx4m
+Yusif	https://academic.oup.com/jnci/article/111/9/916/5307077
+Yusif	https://www.ibm.com/watson-health/learn/artificial-intelligence-healthcare
+	
+THIS ONE!!!	https://broadbandcommission.org/Documents/working-groups/AIinHealth_Report.pdf
+	https://ada.com/press/191119-worlds-first-ai-health-guidance-app-in-swahili/
+	https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/digitizing-healthcare-opportunities-for-germany
+	https://www.babylonhealth.com/peer-reviewed-research
+	https://health.google/health-research/
+	
+Lena	https://www.gruenderszene.de/health/ada-health-samsung-partnerschaft-interview
+Long one	https://eithealth.eu/wp-content/uploads/2020/03/EIT-Health-and-McKinsey_Transforming-Healthcare-with-AI.pdf
+	https://www.gtai.de/gtai-en/invest/industries/life-sciences/ada-health-strategic-partnership-with-samsung-560098
+
+
+
+
+
+
+
+
+
