@@ -89,6 +89,38 @@ Long one	https://eithealth.eu/wp-content/uploads/2020/03/EIT-Health-and-McKinsey
 	https://www.gtai.de/gtai-en/invest/industries/life-sciences/ada-health-strategic-partnership-with-samsung-560098
 
 
+## 24.11.20 Meeting links
+
+1. Introduce to German market regarding McKinsey study, patient journey based on McKinsey: 
+    1. symptom analysis
+    2. Triage
+    3. diagnostics
+    4. diagnosis
+    5. treatment
+    6. monitoring/telemedicine
+    7. rehabilitation 
+
+    * Probably should mention where McKinsey consider cost savings at least for Germany.
+    * Central patient representation (electronic health records)
+
+    (Silke)
+
+2. Investigate specific partners for selected parts of user journey (e.g. ADA helps you with symptoms, Triage little bit of diagnostics)
+    
+    * What are these systems? 
+    * How do they do business models? 
+    * How do they do money? 
+    * How do they treat the entire health system? 
+    * Probably, what is bug in those systems?
+
+    (Yusif)
+
+3. If you consider KRY (it's a matching platform for matching patients with doctors). Telemedicine, Alexa (Amazon), Situating in the USA.
+I am sure Lena understands better what she needs to do.
+
+4. Advance diagnostics, on Images, on Mental diseases (depression) on a Smart phone.
+Deep Medicine by Eric Topol.
+
 
 
 
